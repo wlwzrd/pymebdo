@@ -1855,3 +1855,12 @@ ul {
 		margin-bottom: 20px;
 	}
 }
+
+/* Class to services section*/
+
+textarea.without-lines{
+	width: 100%; 
+	resize: none; 
+	border:none; 
+	border-bottom-style: inset;
+}
